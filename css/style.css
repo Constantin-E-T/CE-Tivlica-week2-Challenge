@@ -195,7 +195,7 @@ nav li a:hover {
   background-image: url(https://placehold.co/600x400);
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1600px) {
   header {
     padding: 0 0 10px 0;
     justify-content: center;
